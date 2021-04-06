@@ -19,7 +19,7 @@ The sources do not necesarily cover highly specific or old trades: f.eg. *rapsod
 It is not intended to be an exhaustive list of job names, but definitely it is a large enough database.
 
 ## Masculine and Feminine Names
-By default the names use the masculine, singular form. 
+By default the names use the masculine, singular form. When the feminine form is irregular, it is also included.
 
 ## Fields
 The records in the csv files have two fields: the name and the source, which is a list with the numeric codes used in the Sources section. 
