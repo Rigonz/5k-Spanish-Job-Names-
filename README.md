@@ -47,3 +47,5 @@ The sources are the following:
 19. OFI9: https://www.abueling.com/blog/oficios-antiguos/
 20. OFI10: http://www.eligeprofesion.org/pro_005.asp?ipag=5
 
+## Encoding
+Data is UTF-8.
