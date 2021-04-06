@@ -2,15 +2,29 @@
 4k Spanish Job Names Scraped from 15 Sources
 
 ## Presentation
-The csv file includes almost 4,000 Spanish job names extracted from 15 sources.
+The csv file includes almost 4,000 Spanish job names (*oficios* and *profesiones*) extracted from 15 sources.
 
-In addition to standard professional job names, certain other names that refer to position in the military and religious hyerarchies are included.
+In addition to standard professional job names, certain other names that refer to position in the military and religious hyerarchies are also included.
 
-Accents and duplicated names have been removed, while variants are not considered duplicates (f.eg. melero and mielero are included as different entries).
+Accents and duplicated names have been removed, while variants are not considered duplicates (f.eg. *melero* and *mielero* are included as different entries). 
 
-The sources are mostly from Spain but a repository from Colombia has also been extracted - still it is well possible that job names in use in Latinamerica are not included.
+The character *ñ* has been lost in the orthographic revision, something that I need to fix.
+
+I have made some efforts to simplify the names (f.eg. I would prefer to include only *ingeniero* and not *ingeniero agrónomo*, *ingeniero industrial*, etc.) but the sources are not consistent and I have not been strict on this.
+
+The sources are mostly from Spain but some repositories from Colombia and Mexico have also been extracted - still it is well possible that many job names in use in Latinamerica are not included. 
+
+The sources do not necesarily cover highly specific or old trades: f.eg. *rapsoda*, *heraldo*, *juglar* or *faraute* are not included.
 
 It is not intended to be an exhaustive list of job names, but definitely it is a large enough database.
+
+## Masculine and Feminine Names
+By default the names use the masculine, singular form. 
+
+## Fields
+The records in the csv files have two fields: the name and the source, which is a list with the numeric codes used in the Sources section. 
+
+It is possible to use the number of sources in which a name is present as a rough measure of frequency, but it is likely more useful as a measure of "spelling correctness". In any case, it is worth noting that not all the sources have the same reliability or scope.
 
 ## Languages
 These repositories include names in Spanish and Catalan, as indicated in the following section.
@@ -33,10 +47,3 @@ The sources are the following:
 19. OFI9: https://www.abueling.com/blog/oficios-antiguos/
 20. OFI10: http://www.eligeprofesion.org/pro_005.asp?ipag=5
 
-## Masculine and Feminine Names
-By default the names use the masculine, singular form.
-
-## Fields
-The records in the csv files have two fields: the name and the source, which is a list with the numeric codes used in the Sources section. 
-
-It is possible to use the number of sources in which a name is present as a rough measure of frequency, but it is likely more useful as a measure of "spelling correctness". In any case, it is worth noting that not all the sources have the same reliability or scope.
