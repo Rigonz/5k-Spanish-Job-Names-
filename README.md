@@ -4,7 +4,7 @@
 ## Presentation
 The csv file includes over 5,000 Spanish job names (*oficios* and *profesiones*) extracted from 20 sources.
 
-In addition to standard professional job names, certain other names that refer to position in the military and religious hyerarchies are also included.
+In addition to standard professional job names, certain other names that refer to position in the political, military and religious hyerarchies are also included.
 
 Accents and duplicated names have been removed, while variants are not considered duplicates (f.eg. *melero* and *mielero* are included as different entries). 
 
