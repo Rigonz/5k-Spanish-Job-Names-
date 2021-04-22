@@ -1,8 +1,8 @@
-# 4k Spanish Job Names
-4k Spanish Job Names Scraped from 15 Sources
+# 5k Spanish Job Names
+5k Spanish Job Names Scraped from 20 Sources
 
 ## Presentation
-The csv file includes almost 4,000 Spanish job names (*oficios* and *profesiones*) extracted from 15 sources.
+The csv file includes over 5,000 Spanish job names (*oficios* and *profesiones*) extracted from 20 sources.
 
 In addition to standard professional job names, certain other names that refer to position in the military and religious hyerarchies are also included.
 
@@ -14,7 +14,7 @@ I have made some efforts to simplify the names (f.eg. I would prefer to include 
 
 The sources are mostly from Spain but some repositories from Colombia and Mexico have also been extracted - still it is well possible that many job names in use in Latinamerica are not included. 
 
-The sources do not necesarily cover highly specific or old trades: f.eg. *rapsoda*, *heraldo*, *juglar* or *faraute* are not included.
+The sources do not necesarily cover highly specific or old trades: f.eg. *rapsoda*, *heraldo*, *juglar* or *faraute* might not be included (but they are).
 
 It is not intended to be an exhaustive list of job names, but definitely it is a large enough database.
 
@@ -36,6 +36,7 @@ The sources are the following:
 3.  WIKI3: https://es.wikipedia.org/wiki/Categor%C3%ADa:T%C3%ADtulos_eclesi%C3%A1sticos
 4.  WIKI4: https://es.wikipedia.org/wiki/Categor%C3%ADa:Cargos_eclesi%C3%A1sticos_de_los_cristianos_orientales
 5.  WIKI5: https://es.wikipedia.org/wiki/Jerarqu%C3%ADa_de_la_Iglesia_cat%C3%B3lica
+10. OFI0: Miscellaneous sources
 11. OFI1: https://www.gipuzkoa.eus/es/web/aintzinako-lanbideak/inicio
 12. OFI2: https://trabajoypersonal.com/listado-oficios-y-profesiones/#
 13. OFI3: https://unidadigualdad.ugr.es/pages/listadodeoficiosprofesionesytitulacionesaytomailaga/!
@@ -46,6 +47,10 @@ The sources are the following:
 18. OFI8: https://www.jugarscattergories.com/profesiones
 19. OFI9: https://www.abueling.com/blog/oficios-antiguos/
 20. OFI10: http://www.eligeprofesion.org/pro_005.asp?ipag=5
+21. OFI11: http://baileninformativo.blogspot.com/2009/06/articulo-completo-aparecido-en-la.html
+22. OFI12: Diccionario ideologico, Casares
+23. OFI13: Novisimo diccionario de la rima, Landa
+24. OFI14: Diccionario de ideas afines, Corripio
 
 ## Encoding
 Data is UTF-8.
